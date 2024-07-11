@@ -1,22 +1,22 @@
 # projet_data_mining
 
 
-## Tuto github
+## 🤖Tuto github
 
-**Sur VS Code**
+**⌨️Sur VS Code⌨️**
 
-1) Connecter son compte GitHub à VSCode
+1) Connecter son compte GitHub à VSCode🤖
 
-2) Faire CTRL+MAJgauche+P et taper 
+2) Faire CTRL+MAJgauche+P et taper :
 ```bash
   Git clone
 ```
-puis entrer :
+    puis entrer :
 ```bash
   https://github.com/calvinNdmb/projet_data_mining.git
 ```
 
-3) Créer un environnement vituel 
+3) Créer un environnement vituel 🤓
 
 - Option 1 créer un venv en utilisant VSCode :
     Faire CTRL+MAJgauche+P et taper 
@@ -37,4 +37,4 @@ puis entrer :
     pip install -r requirements.txt
 ```
 
-En cas de question hésitez pas à me demander ^^
+En cas de question hésitez pas à me demander 😅
