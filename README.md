@@ -24,8 +24,7 @@ puis entrer :
 ```bash
   create environnement 
 ```
-    Sélectionner venv et choisir d'installer "requirements.txt"
-
+Sélectionner venv et choisir d'installer "requirements.txt"
 - Option 2 avec le terminal :
 
 ```bash
