@@ -11,8 +11,8 @@
 ```bash
   Git clone
 ```
-    puis entrer :
-    
+puis entrer :
+
 ```bash
   https://github.com/calvinNdmb/projet_data_mining.git
 ```
